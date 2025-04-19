@@ -1,6 +1,6 @@
 import unittest
 from unittest import TestCase
-from flask_lab2.decrypt import decrypt
+from flask_lab2.decrypt import decrypt  # Измените путь импорта в соответствии с вашим проектом
 
 
 class DecryptTestCase(TestCase):
